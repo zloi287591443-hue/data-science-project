@@ -30,3 +30,10 @@ The dataset only covers a 2-year period (2018–2020) and focuses solely on pric
 2. Ensure `data.csv` and `apple_stock_analysis.ipynb` are in the same directory.
 3. Open the notebook: `jupyter notebook apple_stock_analysis.ipynb`
 4. Run all cells sequentially.
+[requirements.txt](https://github.com/user-attachments/files/33707789/requirements.txt)
+[data.csv](https://github.com/user-attachments/files/33707788/data.csv)
+[apple_stock_analysis.ipynb](https://github.com/user-attachments/files/33707787/apple_stock_analysis.ipynb)
+<img width="1731" height="678" alt="ab4de2e4-6e7a-4b21-bfe9-f66b9eb5fc07" src="https://github.com/user-attachments/assets/181c7963-a459-429c-acb2-a3bc25cc26a7" />
+<img width="1775" height="723" alt="6bf14356-b71f-461d-b60b-f4b3173e3307" src="https://github.com/user-attachments/assets/0306ccb6-1b85-4213-a122-d052e1e3af45" />
+<img width="1668" height="735" alt="5e919c50-abe9-4b38-9066-006c7a62ad95" src="https://github.com/user-attachments/assets/37680366-b278-4b1f-a4ba-9dcc215dc9bd" />
+
